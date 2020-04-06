@@ -1,2 +1,2 @@
 # data-privacy-example
-Red-id example with mock data
+Re-identification example with mock data.
